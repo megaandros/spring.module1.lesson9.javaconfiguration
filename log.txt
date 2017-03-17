@@ -1,0 +1,312 @@
+loggers.Event{id=-1608773753, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 17:20:52 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2008140831, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 17:20:52 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1114921836, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 17:20:52 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=287201774, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 17:20:52 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1283217680, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 17:32:43 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1338267310, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 17:32:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1111683359, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 17:32:43 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=384603479, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 17:32:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1315698978, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 17:35:15 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=429228431, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 17:35:16 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1176107770, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 17:35:15 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-2018438351, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 17:35:16 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=215207939, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 17:35:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1828532666, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 17:35:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-231442527, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 17:35:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1509205348, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 17:35:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=393317558, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 17:38:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-752791900, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 17:38:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1242023263, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 17:38:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1377873178, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 17:38:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1046863947, msg='Some event for user 3 - Hi there!', date=Tue May 17 18:06:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1022496578, msg='Some event for user 6 - Hi there!', date=Tue May 17 18:06:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1449372440, msg='Some event for user John Snow - Hi there!', date=Tue May 17 18:06:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-437710966, msg='Some event for user 4 - Hi there!', date=Tue May 17 18:06:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-2092470862, msg='Some event for user 3 - Hi there!', date=Tue May 17 18:09:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1233951669, msg='Some event for user 6 - Hi there!', date=Tue May 17 18:09:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1687997661, msg='Some event for user John - Hi there!', date=Tue May 17 18:09:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-209478925, msg='Some event for user 4 - Hi there!', date=Tue May 17 18:09:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=473637883, msg='Some event for user 3 - Hi there!', date=Tue May 17 18:11:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-740882331, msg='Some event for user 6 - Hi there!', date=Tue May 17 18:11:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1818120582, msg='Some event for user John - Hi there!', date=Tue May 17 18:11:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1475865557, msg='Some event for user 4 - Hi there!', date=Tue May 17 18:11:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=142312427, msg='Some event for user 3 - Hi there!', date=Tue May 17 18:15:08 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-436328633, msg='Some event for user 6 - Hi there!', date=Tue May 17 18:15:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1777802157, msg='Some event for user John - Hi there!', date=Tue May 17 18:15:08 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1811489621, msg='Some event for user 4 - Hi there!', date=Tue May 17 18:15:08 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=131797204, msg='Some event for user 3 - Hi there!', date=Tue May 17 18:15:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=424076053, msg='Some event for user 6 - Hi there!', date=Tue May 17 18:15:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-2053881072, msg='Some event for user John Snow - Hi there!', date=Tue May 17 18:15:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-677073612, msg='Some event for user 4 - Hi there!', date=Tue May 17 18:15:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1453102274, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 18:15:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=474942280, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 18:15:49 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=965205744, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 18:15:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1727777244, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 18:15:49 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=337713314, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 18:42:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-559722748, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 18:42:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1634098208, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 18:42:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2062675677, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 18:42:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1023799099, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:05:11 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1223958943, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:05:12 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=970780215, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:05:11 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1860318395, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:05:12 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-996663145, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:06:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=443797603, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:06:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1368581938, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:06:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-132711094, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:06:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=586605583, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:15:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=156639189, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:15:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1197797609, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:15:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-460303839, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:15:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1827708325, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:22:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1091544948, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:22:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-13571409, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:22:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=990757949, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:22:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=131267568, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:22:12 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1202419402, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:22:13 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-433852817, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:22:12 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=237985990, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:22:12 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1903447784, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:30:16 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2100572077, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:30:17 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1872590184, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:30:16 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1431480230, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:30:16 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1276415227, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:35:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1697855060, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:35:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1814860279, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:35:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1815524764, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:35:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1390173174, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:39:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=197969738, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:39:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1711249110, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:39:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=673851427, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:39:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1743214700, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:40:02 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-885412968, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:40:03 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1315813922, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:40:02 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-395269673, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:40:03 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1011291342, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:40:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=86969123, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:40:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1712694909, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:40:19 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=904685627, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:40:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1818627005, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:41:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-201345297, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:41:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1849357707, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:41:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-124848027, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:41:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=640404213, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:42:08 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1256059013, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:42:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-614018094, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:42:08 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1919765450, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:42:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-321853881, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:42:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1435526459, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:42:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1942240142, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:42:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-683023558, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:42:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=822351652, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:54:45 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-756766926, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:54:45 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1171422586, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:54:45 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1670887962, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:54:45 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=847431243, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 19:57:17 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=152861467, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 19:57:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-2003795856, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 19:57:17 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=778698531, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 19:57:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=989617297, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:01:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1356012310, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:01:19 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-73071298, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:01:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-453356715, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:01:18 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=830808836, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:01:47 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=658929709, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:01:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=537338383, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:01:47 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1420015632, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:01:47 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-504180191, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:02:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=141070721, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:02:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1223971800, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:02:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1887109819, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:02:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1410922204, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:04:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1999396040, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:04:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1452880881, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:04:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1229597632, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:04:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-327616652, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:05:40 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1685146175, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:05:41 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-25227087, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:05:40 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-79871891, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:05:40 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1988728811, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:10:43 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=480717733, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:10:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1392181471, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:10:43 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=265110001, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:10:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-207460113, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:11:07 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-427908848, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:11:10 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-478860495, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:11:07 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-867929254, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:11:10 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1858007999, msg='Some event for user 3 - You are nothing know!', date=Tue May 17 20:12:37 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=992017183, msg='Some event for user 6 - You are nothing know!', date=Tue May 17 20:12:37 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1726485963, msg='Some event for user John Snow - You are nothing know!', date=Tue May 17 20:12:37 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-152442019, msg='Some event for user 4 - You are nothing know!', date=Tue May 17 20:12:37 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=819692135, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 14:47:50 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1450776057, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 14:47:50 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1652971075, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 14:47:50 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1151057320, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 14:47:50 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1853203377, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 14:49:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-247191514, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 14:49:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=396675338, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 14:49:13 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1807942486, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 14:49:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=440125724, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:07:05 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1765920053, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:07:05 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2057026569, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:07:04 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1883953777, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:07:05 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=149876321, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:18:43 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-321505869, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:18:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=745612596, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:18:43 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=359120877, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:18:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1223229846, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:21:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1107630891, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:21:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1296288544, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:21:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2107864410, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:21:48 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=870159488, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:22:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=932274829, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:22:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-672662737, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:22:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=633407345, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:22:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=109448297, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:31:59 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-920001901, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:32:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1212008081, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:31:59 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1850164489, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:32:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=825941528, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:32:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1921930436, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:32:27 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1224841349, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:32:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=598455870, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:32:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1403192317, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:34:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-508512050, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:34:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-1719675164, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:34:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-754166787, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:34:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-479766845, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:41:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-2042378616, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:41:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-302718862, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:41:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-1869532679, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:41:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=200083236, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:45:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1195599452, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:45:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1428170918, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:45:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1258260258, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:45:14 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-206871073, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:45:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-1212079499, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:45:27 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=99545237, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:45:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=550947342, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:45:27 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=461090653, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:45:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-631825366, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:45:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-932433243, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:45:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=426732661, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:45:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=379668878, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 18:46:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1505485636, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 18:46:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-23275153, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 18:46:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-390544403, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 18:46:28 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-1271270321, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 19:03:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1553698283, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 19:03:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1057317122, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 19:03:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=291725739, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 19:03:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=645998823, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 19:12:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=1605870431, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 19:12:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-884118698, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 19:12:00 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=218141610, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 19:12:01 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='null'}
+loggers.Event{id=-2060413319, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 21:32:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2138378225, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 21:32:21 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1776040943, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 21:32:20 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-395498373, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 21:32:21 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=55851793, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 21:34:06 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-383889843, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 21:34:06 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-546656780, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 21:34:06 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1657371267, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 21:34:06 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1975953099, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 21:35:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=563451733, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 21:35:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1189959363, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 21:35:37 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=945995175, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 21:35:38 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=116412988, msg='Some event for user 3 - You are nothing know!', date=Thu May 19 21:36:19 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-241885383, msg='Some event for user 6 - You are nothing know!', date=Thu May 19 21:36:19 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1528891702, msg='Some event for user John Snow - You are nothing know!', date=Thu May 19 21:36:19 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1464129272, msg='Some event for user 4 - You are nothing know!', date=Thu May 19 21:36:19 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=612799732, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 13:56:52 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-628722206, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 13:56:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1947372143, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 13:56:52 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1154125600, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 13:56:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-542723045, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 15:17:51 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=300701138, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 15:17:51 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1367278350, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 15:17:50 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-597371410, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 15:17:51 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1339231274, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 15:19:21 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1500554312, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 15:19:22 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2004599193, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 15:19:21 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-634175537, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 15:19:22 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1653141438, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:10:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=155000123, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:10:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-267339981, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:10:41 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1393574952, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:10:42 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2015422839, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:11:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-988684470, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:11:24 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=239408996, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:11:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=101764616, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:11:23 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-852796149, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:19:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-593607472, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:19:31 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1666085572, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:19:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=429890940, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:19:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=913368248, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:20:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1428947828, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:20:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1614661575, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:20:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=960932782, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:20:09 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1148994306, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:20:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-609560734, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:20:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-128251344, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:20:24 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1789507015, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:20:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-205517292, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:22:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1671661856, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:22:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-720872128, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:22:24 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1165215216, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:22:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=876479683, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:31:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=364958654, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:31:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=903187715, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:31:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1025832745, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:31:53 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1972654034, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:37:06 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1485734604, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:37:07 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=970849667, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:37:06 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1265688571, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:37:07 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1555306840, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:39:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-399057746, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:39:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=126681971, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:39:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=2059855120, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:39:25 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1670161106, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 16:40:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1120538469, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 16:40:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-519685597, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 16:40:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-882280303, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 16:40:32 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1139589337, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:01:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1593418634, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:01:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=543785978, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 18:01:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-838625459, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 18:01:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1968896133, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:13:34 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-770758153, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:13:34 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-870128159, msg='Some event for user John Snow - You are nothing know!', date=Fri May 20 18:13:33 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1027441821, msg='Some event for user 4 - You are nothing know!', date=Fri May 20 18:13:34 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=653033583, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:31:03 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=777854473, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:31:03 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=507486472, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:33:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-15484193, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:33:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1475960697, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:37:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1503748254, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:37:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-689769310, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:41:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-5934, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:41:30 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1262577722, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:42:39 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-2014589761, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:42:39 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1572476881, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:42:59 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-503715140, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:42:59 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-255691932, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:43:49 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-241257530, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:43:49 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=20462545, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:44:17 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1297523443, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:44:17 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1445008331, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:44:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-687171077, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:44:29 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=147005579, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:45:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1876225773, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:45:44 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=658555332, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:49:13 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=683182911, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:49:13 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-86834427, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:53:57 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1439538831, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:53:57 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-2117898775, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:54:33 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1098843974, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:54:33 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1764009839, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 18:59:31 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1442610065, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 18:59:31 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=352689331, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 19:07:10 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=1348218356, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 19:07:10 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=775187254, msg='Some event for user 3 - You are nothing know!', date=Fri May 20 19:07:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
+loggers.Event{id=-1817232794, msg='Some event for user 6 - You are nothing know!', date=Fri May 20 19:07:26 IDT 2016, df=java.text.SimpleDateFormat@7945516e, df1='java.text.SimpleDateFormat@7945516e'}
